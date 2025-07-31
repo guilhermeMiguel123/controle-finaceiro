@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/controle-finaceiro/static/css/main.3dde27e6.css",
-    "main.js": "/controle-finaceiro/static/js/main.c398a3b1.js",
+    "main.css": "/controle-finaceiro/static/css/main.9a6f1207.css",
+    "main.js": "/controle-finaceiro/static/js/main.59cfc16b.js",
     "index.html": "/controle-finaceiro/index.html",
-    "main.3dde27e6.css.map": "/controle-finaceiro/static/css/main.3dde27e6.css.map",
-    "main.c398a3b1.js.map": "/controle-finaceiro/static/js/main.c398a3b1.js.map"
+    "main.9a6f1207.css.map": "/controle-finaceiro/static/css/main.9a6f1207.css.map",
+    "main.59cfc16b.js.map": "/controle-finaceiro/static/js/main.59cfc16b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dde27e6.css",
-    "static/js/main.c398a3b1.js"
+    "static/css/main.9a6f1207.css",
+    "static/js/main.59cfc16b.js"
   ]
 }
