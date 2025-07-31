@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/controle-finaceiro/static/js/main.e11418e2.js",
+    "main.js": "/controle-finaceiro/static/js/main.1d229058.js",
     "index.html": "/controle-finaceiro/index.html",
-    "main.e11418e2.js.map": "/controle-finaceiro/static/js/main.e11418e2.js.map"
+    "main.1d229058.js.map": "/controle-finaceiro/static/js/main.1d229058.js.map"
   },
   "entrypoints": [
-    "static/js/main.e11418e2.js"
+    "static/js/main.1d229058.js"
   ]
 }
